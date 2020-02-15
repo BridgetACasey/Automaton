@@ -1,0 +1,22 @@
+This was my HND project and the first finished game I ever made at age 18/19.
+It was also my first time making a game in Unity so I spent a while getting to grips
+with the engine. It was a highly rewarding challenge and I would love to go
+back and fix some bugs and improve the game overall if I ever find the time.
+
+Notes on Game -
+--------------
+WASD/Arrow keys to move
+SPACE to jump
+TAB to open settings/help menu and see additional controls
+Left Mouse Button to grapple
+
+Find the total number of energy cubes needed per room to unlock
+the door to the next puzzle
+When you find an energy cube, put it on a pedestal by the blue
+door
+Some objects are locked behind orange doors
+Orange doors need bombs to open them
+Remember, you can only carry one object at a time
+Collect notepads to unlock extra lore
+
+If you complete the game, just ALT + F4
